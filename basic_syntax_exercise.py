@@ -3,35 +3,35 @@
 # 1. Variables: You can store values in variables.
 
 # On the next line store the number '10' in the variable 'x'.
-x = 10
+
 
 # On the next line, store the number '20.5' in the variable 'y'.
-y = 20.5
+
 
 # On the next line, store the string 'Hello, World!' in the variable 'z'.
-z = 'Hello, World!'
+
 
 # On the next line, store the boolean 'True' in the variable 'a'.
-a = True
+
 
 # On the next line, store the boolean 'False' in the variable 'b'.
-b = False 
+
 
 # Use the print statement and the variable 'x' to display the message:
     # "10, is an integer variable."
-print(f"{x}, is an integer variable.")    
+print()    
 # Use the print statement and the variable 'y' to display the message: 
     # "20.5, is a float variable."
-print(f"{y}, is a float variable.")
+print()
 # Use the print statement and the variable 'z' to display the message: 
     # " 'Hello, World!' is a string variable."
-print(f"{z} is a string variable.")
+print()
 # Use the print statement and the variable 'a' to display the message:
     # " 'True', is a boolean variable."
-print(f"{a}, is a boolean variable.")
+print()
 # Use the print statement and the variable 'b' to display the message:
     # " 'False', is a boolean variable.
-print(f"{b}, is a boolean variable.")    
+print()    
 
 
 # 2. Data Types: Python has several built-in data types.
